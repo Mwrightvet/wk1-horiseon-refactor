@@ -6,18 +6,17 @@ Refactoring of the Horiseon website to meet accessibility standards for good SEO
 
 #Acceptance Criteria 
 1. Ensure the source code contains semantic elements.
-2. Ensure the semtantic elements follow a logical structure.
+2. Ensure the semtantic elements follow a logical structure something along the lines of the example below. 
 ```
-<code class="language-text">&lt;header&gt;&lt;/header&gt;
-&lt;section&gt;
-	&lt;article&gt;
-		&lt;figure&gt;
-			&lt;img&gt;
-			&lt;figcaption&gt;&lt;/figcaption&gt;
-		&lt;/figure&gt;
-	&lt;/article&gt;
-&lt;/section&gt;
-&lt;footer&gt;&lt;/footer&gt;</code>
+<header>
+<nav>
+	<article>
+	<h#>
+	<p></p>
+	</article>
+	<section>
+	<aside>
+<footer>
 ``` 
 
 3. Ensure Incons and Image elemnets contain proper alt tags for accessibility purposes using the example below. 

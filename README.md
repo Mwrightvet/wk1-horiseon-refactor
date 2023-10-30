@@ -8,19 +8,18 @@ Refactoring of the Horiseon website to meet accessibility standards for good SEO
 1. Ensure the source code contains semantic elements.
 2. Ensure the semtantic elements follow a logical structure something along the lines of the example below. 
 ```
+
+<title>
 <header>
 <nav>
-	<article>
-	<h#>
-	<p></p>
-	</article>
-	<section>
-	<aside>
+<section>
+<h> header tags
+<p> paragraph markings
 <footer>
 ``` 
 
 3. Ensure Incons and Image elemnets contain proper alt tags for accessibility purposes using the example below. 
-   ```<img src="cost-management.png" alt="Cog-wheel-with-dollar-symbols""```
+   ```<img src="cost-management.png" alt="Cog wheel with dollar symbols"```
 
 4. Ensure the heading attributes follow a sequential order.
   ``` h1, h2, h3, h4, etc.```

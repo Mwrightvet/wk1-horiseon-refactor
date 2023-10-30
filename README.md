@@ -41,9 +41,12 @@ Refactoring of the Horiseon website to meet accessibility standards for good SEO
    - removed some weird spacing issues in the paragraphs 
    - changed the div that used a footer class to using it's own footer semantic
   
-   - If I had more time what would I have done:
+  #If I had more time what would I have done:
    -    figured out how to fix the navigation better so that I didn't have to change the background so much
    -    cleaned up the redundant section image sizes
    -    cleaned up the redudndant section styling for all of the h2s
    -    cleaned up the redundant section styling for all of the h3
-   -    overall clean up the style page to reduce some redundancies 
+   -    overall clean up the style page to reduce some redundancies
+
+   -    ![image](https://github.com/Mwrightvet/wk1-horiseon-refactor/assets/50971489/d4773bb6-8378-4724-8d9a-b12af489c23e)
+

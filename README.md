@@ -42,7 +42,8 @@ Refactoring of the Horiseon website to meet accessibility standards for good SEO
    - changed the div that used a footer class to using it's own footer semantic
   
   #Things left to do: 
-   -    figured out how to fix the navigation better so that I didn't have to change the background so much
+   -     deplpy the website
+   -     figured out how to fix the navigation better so that I didn't have to change the background so much
    -    cleaned up the redundant section image sizes
    -    cleaned up the redudndant section styling for all of the h2s
    -    cleaned up the redundant section styling for all of the h3

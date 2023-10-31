@@ -1,10 +1,21 @@
 # wk1-horiseon-refactor
+
+## Description 
+
 Refactoring of the Horiseon website to meet accessibility standards for good SEO standards
 
-#User Story 
+## Table of Contents 
+
+- [UserStory](#Userstory)
+- [AcceptanceCriteria](#Acceptancecriteria)
+- [RefactoringList](#Refactoringlist)
+- [Credits](#Credits)
+
+## Userstory
 02-Challenge (Week 1) - As a margeting agency, website follows accessibility standars for Search Engine Optimization (SEO). 
 
-#Acceptance Criteria 
+
+## Acceptancecriteria 
 1. Ensure the source code contains semantic elements.
 2. Ensure the semtantic elements follow a logical structure something along the lines of the example below. 
 ```
@@ -24,7 +35,8 @@ Refactoring of the Horiseon website to meet accessibility standards for good SEO
   ``` h1, h2, h3, h4, etc.```
 5. Ensure the title element has a concise and descriptive title. 
 
-6. List of Edits made:
+## RefactoringList 
+List of Edits made:
    - followed the site "https://www.w3schools.com/html/html5_semantic_elements.asp" for semantic guidelines
    - changed the title to match website content
    - change the div class that contained a header class to it's own header semantic
@@ -50,5 +62,6 @@ Refactoring of the Horiseon website to meet accessibility standards for good SEO
    -    cleaned up the redundant section styling for all of the h3
    -    overall clean up the style page to reduce some redundancies
 
+## Credits
    -    ![image](https://github.com/Mwrightvet/wk1-horiseon-refactor/assets/50971489/d4773bb6-8378-4724-8d9a-b12af489c23e)
 

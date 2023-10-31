@@ -56,12 +56,12 @@ List of Edits made:
    - changed the div that used a footer class to using it's own footer semantic
   
   #Things left to do: 
-   -    deply the website
-   -    follow the stylesheet read me guide 
+   -    deploy the site (done) 
+   -    follow the stylesheet read me guide (check bonus)
    -    figured out how to fix the navigation better so that I didn't have to change the background so much
-   -    cleaned up the redundant section image sizes
-   -    cleaned up the redudndant section styling for all of the h2s
-   -    cleaned up the redundant section styling for all of the h3
+   -    clean up the redundant section image sizes
+   -    clean up the redudndant section styling for all of the h2s
+   -    clean up the redundant section styling for all of the h3
    -    overall clean up the style page to reduce some redundancies
 
 ## WebsiteLink

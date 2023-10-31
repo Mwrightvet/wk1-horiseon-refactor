@@ -17,7 +17,7 @@ Refactoring of the Horiseon website to meet accessibility standards for good SEO
 02-Challenge (Week 1) - As a margeting agency, website follows accessibility standars for Search Engine Optimization (SEO). 
 
 
-## Acceptancecriteria 
+## Acceptance criteria 
 1. Ensure the source code contains semantic elements.
 2. Ensure the semtantic elements follow a logical structure something along the lines of the example below. 
 ```

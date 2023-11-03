@@ -9,7 +9,7 @@ Refactoring of the Horiseon website to meet accessibility standards for good SEO
 - [UserStory](#Userstory)
 - [AcceptanceCriteria](#AcceptanceCriteria)
 - [RefactoringList](#Refactoringlist)
-- [WebsiteLink](#WebsiteLink)
+- [URLdeployedapplication](#URLdeployedapplication)
 - [Screenshot](#Screenshot)
 - [Credits](#Credits)
 
@@ -64,7 +64,7 @@ List of Edits made:
    -    clean up the redundant section styling for all of the h3
    -    overall clean up the style page to reduce some redundancies
 
-## WebsiteLink
+## URLdeployedapplication
 https://mwrightvet.github.io/wk1-horiseon-refactor/
 
 ## Screenshot
